@@ -1,0 +1,13 @@
+li{
+    &.list-group-item{
+        margin-bottom: 20px;
+        span{
+            position: absolute;
+            right: 12px;
+            font-style: italic;
+        }
+        button{
+            margin-right: 15px;
+        }
+    }
+}
